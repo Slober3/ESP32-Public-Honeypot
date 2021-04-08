@@ -13,8 +13,8 @@ WiFiMulti wifiMulti;
 #define HISTORY 10
 #define RETRY 4
 
-const char *ssid = "ShadesInside";
-const char *password = "broodje5";
+const char *ssid = "*****";
+const char *password = "*****";
 int clientNumber[ARRAYSIZE];
 String commandHistory[ARRAYSIZE];
 String ipHistory[ARRAYSIZE];
