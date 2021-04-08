@@ -30,4 +30,4 @@ We are still searching brainstormers, users who would like to help and guys who 
 2) Email: pothead@7ol.eu
 
 ## License
-This projects is Licensed under the MIT license.
+This projects is Licensed under the GNU Lesser General Public License v3.0 license.
